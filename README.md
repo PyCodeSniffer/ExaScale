@@ -10,3 +10,5 @@ Folgende Cuda-Fähige Geräte stehen Aktuell zur Verfügung:
 
 
  
+# ExaScaleV1 CPU
+Status: Projekt erstellt, noch nichts programmiert
