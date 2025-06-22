@@ -11,4 +11,5 @@ Folgende Cuda-Fähige Geräte stehen Aktuell zur Verfügung:
 
  
 # ExaScaleV1 CPU
+Ziel: Funktionierender RiscV Emulator, der eine Linux Distro laufen lassen kann. (Die Maximal Unterstützte Kerne sind dabei hedoch ENORM Limitiert!
 Status: Projekt erstellt, noch nichts programmiert
