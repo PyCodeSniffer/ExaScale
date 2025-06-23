@@ -8,6 +8,7 @@ Folgende Cuda-Fähige Geräte stehen Aktuell zur Verfügung:
  |RTX 2080 | 8GB VRam | 2.944 |
  |RTX 3060 Laptop | 6GB VRam | 3.840 |
  |GTX 1080 FE | 8GB VRam | 2.560 |
+ |GTX 960 | 2GB VRam | 1.024 |
 
 
  
